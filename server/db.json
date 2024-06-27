@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 12",
+      "price": 1000,
+      "total": 5,
+      "description": "lorem ipsum dolor sit",
+      "image": "https://d28i4xct2kl5lp.cloudfront.net/product_images/None_ae2255fa-1081-49da-8f19-569b1af24be9.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 11",
+      "price": 2000,
+      "total": 12,
+      "description": "lorem ipsum dolor sit",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.rdcYuV1EKBG6BASF6_s4TAHaIw&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 10",
+      "price": 3000,
+      "total": 12,
+      "description": "lorem ipsum dolor sit",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.zSKvviop1t61GhRXwgPhbQAAAA&pid=Api&P=0&h=220"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "name": "Iphone 12",
+      "price": 1000,
+      "total": 12,
+      "description": "lorem ipsum dolor sit",
+      "image": "https://d28i4xct2kl5lp.cloudfront.net/product_images/None_ae2255fa-1081-49da-8f19-569b1af24be9.jpg",
+      "quantity": 9
+    }
+  ]
+}
